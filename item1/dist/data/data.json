@@ -1,0 +1,223 @@
+[
+    [
+        {"id": 0,
+        "img":"https://fms.res.meizu.com/dms/2020/08/20/6e3ba11a-99ff-4214-bc7a-6a1b2a00387e.jpg"},
+        {"id": 1,
+        "img":"https://fms.res.meizu.com/dms/2020/08/17/0553fd81-bea2-4f69-a5c0-30b2e7b132c4.jpg"},
+        {"id": 2,
+        "img":"https://fms.res.meizu.com/dms/2020/08/18/1f3df5a4-4568-4545-ae70-d6db5ad270f0.jpg"},
+        {"id": 3,
+        "img":"https://fms.res.meizu.com/dms/2020/08/18/4d4c9ef1-d52d-4680-a8fd-235f975053a4.jpg"},
+        {"id": 4,
+        "img":"https://fms.res.meizu.com/dms/2020/08/18/8cbe5022-6911-489a-8574-972923a9a0b6.jpg"},
+        {"id": 5,
+        "img":"https://fms.res.meizu.com/dms/2020/08/18/4082f62c-907e-4883-a263-69993d0b8d96.jpg"},
+        {"id": 6,
+        "img":"https://fms.res.meizu.com/dms/2020/08/18/ea567f8e-95e0-492d-ac51-8d47d2896130.jpg"},
+        {"id": 7,
+        "img":"https://fms.res.meizu.com/dms/2020/05/08/f9df1e57-0f99-47d9-b2f5-d8b210b6c9d4.jpg"},
+        {"id": 8,
+        "img":"https://fms.res.meizu.com/dms/2020/08/20/6e3ba11a-99ff-4214-bc7a-6a1b2a00387e.jpg"}
+    ],
+    [
+        {
+            "id": 0,
+            "img":"https://openfile.meizu.com/group1/M00/07/C4/Cgbj0F6zwMuANEeWAAw6yQFAJXM097.png@240x240.jpg",
+            "span":"【热卖】 魅族 17",
+            "price":"￥3699"
+        },
+        {
+            "id": 1,
+            "img":"https://openfile.meizu.com/group1/M00/07/C5/Cgbj0F6zwUqAdPsoAAtCAjTT7ek670.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 Pro",
+            "price":"￥3699"
+        },
+        {
+            "id": 2,
+            "img":"https://openfile.meizu.com/group1/M00/07/E5/Cgbj0V61DmKAarkmAAUGRp7cOD4317.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 航母限定版",
+            "price":"￥3699"
+        },
+        {
+            "id": 3,
+            "img":"https://openfile.meizu.com/group1/M00/07/CF/Cgbj0F61BXaARxdvAAqWtjjyY08964.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 Pro 晓芳窑艺术...",
+            "price":"￥9999"
+        },
+        {
+            "id": 4,
+            "img":"https://openfile.meizu.com/group1/M00/05/E2/Cgbj0FtqgnmAFgJPAAhgnScaoFg724.png@240x240.jpg",
+            "span":"【热卖】 魅族 16Th",
+            "price":"￥1898"
+        },
+        {
+            "id": 5,
+            "img":"https://openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png@240x240.jpg",
+            "span":"【热卖】 魅族 16T",
+            "price":"￥2299"
+        },
+        {
+            "id": 6,
+            "img":"https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png@240x240.jpg",
+            "span":"【热卖】 魅族 16Xs",
+            "price":"￥1499"
+        },
+        {
+            "id": 7,
+            "img":"https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@240x240.jpg",
+            "span":"【热卖】 魅族 X8",
+            "price":"￥1298"
+        }
+    ],
+    [
+        {
+            "id":0,
+            "img":"https://openfile.meizu.com/group1/M00/07/E0/Cgbj0V6z8VSAV6kEAAlCc-omYno614.png@240x240.jpg",
+            "span":"魅族 HD60 降噪耳机",
+            "price":"￥1099"
+        },
+        {
+            "id":1,
+            "img":"https://openfile.meizu.com/group1/M00/07/86/Cgbj0V3UocyAR_tJAApbDmCAyEo620.png@240x240.jpg",
+            "span":"魅族 HD60 头戴式蓝牙...",
+            "price":"￥499"
+        },
+        {
+            "id":2,
+            "img":"https://openfile.meizu.com/group1/M00/07/2F/Cgbj0Vy_C3GAN_TKAAExaPfTwFc180.png@240x240.jpg",
+            "span":"魅族 HIFI 解码耳放",
+            "price":"￥169"
+        },
+        {
+            "id":3,
+            "img":"https://openfile.meizu.com/group1/M00/07/10/Cgbj0Fy9JYOACw2DAAMWf3vEhbA886.png@240x240.jpg",
+            "span":"魅族 EP63NC 无线降噪...",
+            "price":"￥399"
+        },
+        {
+            "id":4,
+            "img":"https://openfile.meizu.com/group1/M00/07/63/Cgbj0V1l2ieAYKJGAAHMHuLWRMo374.png@240x240.jpg",
+            "span":"魅族 EP3C 耳机",
+            "price":"￥129"
+        },
+        {
+            "id":5,
+            "img":"https://openfile.meizu.com/group1/M00/07/28/Cgbj0Vy9Jq6AEzhMAApuih_4TPw329.png@240x240.jpg",
+            "span":"魅族 POP2 真无线蓝牙...",
+            "price":"￥399"
+        },
+        {
+            "id":6,
+            "img":"https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@240x240.jpg",
+            "span":"魅族 EP52 Lite 蓝牙耳机",
+            "price":"￥129"
+        },
+        {
+            "id":7,
+            "img":"https://openfile.meizu.com/group1/M00/07/4D/Cgbj0F1l7zeAFyLsAAZJk_cF8Tk126.png@240x240.jpg",
+            "span":"魅族 UR 高端定制耳机",
+            "price":"￥200"
+        }
+    ],
+    [
+        {
+            "id":0,
+            "img":"https://openfile.meizu.com/group1/M00/07/D7/Cgbj0F67s3yAYmI6AAIrMK1gFWU758.png@240x240.jpg",
+            "span":"魅族超充 GAN 三口充电器",
+            "price":"￥199"
+        },
+        {
+            "id":1,
+            "img":"https://openfile.meizu.com/group1/M00/07/CA/Cgbj0F6z76aADIfNAAS8Gxwx2NE353.png@240x240.jpg",
+            "span":"魅族无线超充板",
+            "price":"￥169"
+        },
+        {
+            "id":2,
+            "img":"https://openfile.meizu.com/group1/M00/08/0D/Cgbj0F8alxiAIkvsAAn9MNJn1zA506.png@240x240.jpg",
+            "span":"Pandaer[17] 夏日系...",
+            "price":"￥69"
+        },
+        {
+            "id":3,
+            "img":"https://openfile.meizu.com/group1/M00/07/DD/Cgbj0V6z7g-AMmMHAAkLeDbS6O4698.png@240x240.jpg",
+            "span":"Pandaer[17] 系列手...",
+            "price":"￥49"
+        },
+        {
+            "id":4,
+            "img":"https://openfile.meizu.com/group1/M00/07/C8/Cgbj0F6z7ouAdDUlAAgE_65zxx0628.png@240x240.jpg",
+            "span":"魅族17xi系列 液态硅胶壳",
+            "price":"￥89"
+        },
+        {
+            "id":5,
+            "img":"https://openfile.meizu.com/group1/M00/07/D4/Cgbj0F64-fCANzfvAAMAQSi_H7U780.png@240x240.jpg",
+            "span":"魅族超充 移动电源",
+            "price":"￥169"
+        },
+        {
+            "id":6,
+            "img":"https://openfile.meizu.com/group1/M00/07/D5/Cgbj0V6o2n-ACbZsAAGnmeZVVRs678.png@240x240.jpg",
+            "span":"魅族 type-C数据线",
+            "price":"￥49"
+        },
+        {
+            "id":7,
+            "img":"https://openfile.meizu.com/group1/M00/07/F7/Cgbj0F7jIyOAaKEWAAdLI30DPuc780.png@240x240.jpg",
+            "span":"魅族 USB-C数据线",
+            "price":"￥49"
+        }
+    ],
+    [
+        {
+            "id": 0,
+            "img":"https://openfile.meizu.com/group1/M00/07/C4/Cgbj0F6zwMuANEeWAAw6yQFAJXM097.png@240x240.jpg",
+            "span":"【热卖】 魅族 17",
+            "price":"￥3699"
+        },
+        {
+            "id": 1,
+            "img":"https://openfile.meizu.com/group1/M00/07/C5/Cgbj0F6zwUqAdPsoAAtCAjTT7ek670.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 Pro",
+            "price":"￥3699"
+        },
+        {
+            "id": 2,
+            "img":"https://openfile.meizu.com/group1/M00/07/E5/Cgbj0V61DmKAarkmAAUGRp7cOD4317.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 航母限定版",
+            "price":"￥3699"
+        },
+        {
+            "id": 3,
+            "img":"https://openfile.meizu.com/group1/M00/07/CF/Cgbj0F61BXaARxdvAAqWtjjyY08964.png@240x240.jpg",
+            "span":"【热卖】 魅族 17 Pro 晓芳窑艺术...",
+            "price":"￥9999"
+        },
+        {
+            "id": 4,
+            "img":"https://openfile.meizu.com/group1/M00/05/E2/Cgbj0FtqgnmAFgJPAAhgnScaoFg724.png@240x240.jpg",
+            "span":"【热卖】 魅族 16Th",
+            "price":"￥1898"
+        },
+        {
+            "id": 5,
+            "img":"https://openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png@240x240.jpg",
+            "span":"【热卖】 魅族 16T",
+            "price":"￥2299"
+        },
+        {
+            "id": 6,
+            "img":"https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png@240x240.jpg",
+            "span":"【热卖】 魅族 16Xs",
+            "price":"￥1499"
+        },
+        {
+            "id": 7,
+            "img":"https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@240x240.jpg",
+            "span":"【热卖】 魅族 X8",
+            "price":"￥1298"
+        }
+    ]
+    
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "img":"https://openfile.meizu.com/group1/M00/07/C4/Cgbj0F6zwMuANEeWAAw6yQFAJXM097.png@240x240.jpg",
+        "span":"【热卖】 魅族 17",
+        "price":"￥3699"
+    },
+    {
+        "id": 1,
+        "img":"https://openfile.meizu.com/group1/M00/07/C5/Cgbj0F6zwUqAdPsoAAtCAjTT7ek670.png@240x240.jpg",
+        "span":"【热卖】 魅族 17 Pro",
+        "price":"￥3699"
+    },
+    {
+        "id": 2,
+        "img":"https://openfile.meizu.com/group1/M00/07/E5/Cgbj0V61DmKAarkmAAUGRp7cOD4317.png@240x240.jpg",
+        "span":"【热卖】 魅族 17 航母限定版",
+        "price":"￥3699"
+    },
+    {
+        "id": 3,
+        "img":"https://openfile.meizu.com/group1/M00/07/CF/Cgbj0F61BXaARxdvAAqWtjjyY08964.png@240x240.jpg",
+        "span":"【热卖】 魅族 17 Pro 晓芳窑艺术...",
+        "price":"￥9999"
+    },
+    {
+        "id": 4,
+        "img":"https://openfile.meizu.com/group1/M00/05/E2/Cgbj0FtqgnmAFgJPAAhgnScaoFg724.png@240x240.jpg",
+        "span":"【热卖】 魅族 16Th",
+        "price":"￥1898"
+    },
+    {
+        "id": 5,
+        "img":"https://openfile.meizu.com/group1/M00/07/62/Cgbj0F2upwyAKqQSAAlGpvLiEdc809.png@240x240.jpg",
+        "span":"【热卖】 魅族 16T",
+        "price":"￥2299"
+    },
+    {
+        "id": 6,
+        "img":"https://openfile.meizu.com/group1/M00/07/2C/Cgbj0FzvRI6AWu1jAAxIbnS8M5Q295.png@240x240.jpg",
+        "span":"【热卖】 魅族 16Xs",
+        "price":"￥1499"
+    },
+    {
+        "id": 7,
+        "img":"https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@240x240.jpg",
+        "span":"【热卖】 魅族 X8",
+        "price":"￥1298"
+    }
+]
